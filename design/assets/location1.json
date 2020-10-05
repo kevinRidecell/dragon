@@ -1,0 +1,18 @@
+[
+         {
+            "name": "Toyota Motors Europe",
+            "location": { "latitude": 51.518298, "longitude": -0.115241 },
+			"focusLocation": { "zoom": 14}
+        },
+	        {
+			
+            "name": "Toyota Great West Road",
+            "location": { "latitude": 51.490400, "longitude": -0.308743 },
+			"focusLocation": { "zoom": 14}
+        },
+	      {
+            "name": "Toyota Battersea",
+            "location": { "latitude": 51.477350, "longitude": -0.143321 },
+			"focusLocation": { "zoom": 14}
+        }
+    ]
